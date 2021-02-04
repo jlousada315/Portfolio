@@ -2,7 +2,9 @@
 
 Personal collection of Data Science and Machine Learning Notebooks on various datasets.
 
+LinkedIn Profile: https://www.linkedin.com/in/joão-lousada-bb7103149/
 Kaggle Profile: https://www.kaggle.com/joolousada
+
 
 Tasks:
 
